@@ -3,10 +3,15 @@
 📌 Features
 
 🔹❌ Employee Management ➝ Add, update, and remove employee records.
+
 🔹❌ Salary Calculation ➝ Compute salaries based on hours worked, overtime, and deductions.
+
 🔹❌ Tax Management ➝ Automatically calculate and deduct taxes.
+
 🔹❌ Payslip Generation ➝ Generate and print payslips for employees.
+
 🔹❌ Leave Management ➝ Track employee leave and absences.
+
 🔹✅ Login System ➝ Secure authentication for users.
 
 📌 How to Set Up the Project in Visual Studio
